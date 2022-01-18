@@ -15,7 +15,7 @@
 
 ## 食用建议
 
-## 资料汇总
+## 资料汇总（招生政策篇）
 
 - **宣讲PPT**
   - 总介绍PPT:https://ck-killer.github.io/USTC-YG
@@ -40,7 +40,7 @@
   - bilibili科大本科招生公众号（搜一搜应该就可以看见）
   - **中国科大少年班学院**
   - bilibili中科大少年班学院
-- （***用于欣赏***） **科大的导航网站（可以先了解一下）** https://ustc.life
+## 资料汇总（妮可师生篇）
 - （***用于欣赏***） **科大老师的个人主页（可以欣赏一下）**（下面举一个栗子）
   - 叶邦角教授个人主页 http://staff.ustc.edu.cn/~bjye
   - 某个老师的固体物理学讲义 http://staff.ustc.edu.cn/~zhaojin
@@ -48,6 +48,17 @@
 - （***用于欣赏***） **科大学生的个人主页**（再举一个栗子）
   - 吴天学长个人主页 http://home.ustc.edu.cn/~wt1997/
   - 某个学长的个人主页 http://home.ustc.edu.cn/~tageniu/
+## 资料汇总（妮可生活篇）
+- （***用于欣赏***） **科大的导航网站（可以先了解一下）**（以下为不用身份验证的网站）： https://ustc.life
+  - 南七茶馆（这个比较贴近蜗壳生活）：https://ustcforum.com/
+  - 科大百科：https://baike.ustc.edu.cn/
+  - 评课社区（其实感觉这个没什么好看的）：https://icourse.club/
+  - 科大图书馆：http://lib.ustc.edu.cn/
+  - 科大官网：https://www.ustc.edu.cn/
+## 资料汇总（蜗壳校园篇）
+
+## 资料汇总（科研成果篇）
+
 ## 总结
 
 祝所有同学们可以考入自己理想的大学
