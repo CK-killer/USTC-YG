@@ -15,6 +15,16 @@
 
 ## 食用建议
 
+## 资料汇总
+
+- **宣讲PPT**
+  - 总介绍PPT:https://ck-killer.github.io/USTC-YG
+- **科大本科招生网**（目前只有2021年的信息）：
+  - 2021年招生简章（这个挺 ***有用*** 的）：https://book.yunzhan365.com/fmxea/tylq/mobile/index.html
+  - 2021浙江省招生计划（2021年计划招收的学生人数及专业）：https://zsb.ustc.edu.cn/2017/0405/c12993a181519/page.htm
+  - 往年浙江省录取人数和分数（可以提供参考）：https://zsb.ustc.edu.cn/2017/0405/c12994a181545/page.htm
+  - 2021强基计划招生简章（科大的强基计划资源 **<** 科技英才班资源）：https://zsb.ustc.edu.cn/2021/0406/c12992a479109/page.htm
+  - 2021自强计划招生简章（适用于农村户口的小旁友们）：https://zsb.ustc.edu.cn/2021/0409/c12992a480030/page.htm
 ## 总结
 
 祝所有同学们可以考入自己理想的大学
