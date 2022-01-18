@@ -20,7 +20,15 @@
 - **宣讲PPT**
   - 总介绍PPT:https://ck-killer.github.io/USTC-YG
 - **科大本科招生网**（目前只有2021年的信息）：
-  - 2021年招生简章（这个挺 ***有用*** 的）：https://book.yunzhan365.com/fmxea/tylq/mobile/index.html
+  - 2021年招生简章（这个挺 ***有用*** 的）（以下为推荐必读部分）：https://book.yunzhan365.com/fmxea/tylq/mobile/index.html
+    - 学校概况 P16
+    - 英才教育 P20-24
+    - 国内的各项教育测评（A这类的东西） P46-50
+    - 科研成果 P52-58
+    - 校园生活 P60-66
+    - 毕业去向 P72-76
+    - 各院系介绍（选自己感兴趣的）从P78开始
+    - 报考指南（其实并没有什么用😶） P206-210
   - 2021浙江省招生计划（2021年计划招收的学生人数及专业）：https://zsb.ustc.edu.cn/2017/0405/c12993a181519/page.htm
   - 往年浙江省录取人数和分数（可以提供参考）：https://zsb.ustc.edu.cn/2017/0405/c12994a181545/page.htm
   - 2021强基计划招生简章（科大的强基计划资源 **<** 科技英才班资源）：https://zsb.ustc.edu.cn/2021/0406/c12992a479109/page.htm
