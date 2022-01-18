@@ -52,7 +52,7 @@
 - （***用于欣赏***） **科大的导航网站（可以先了解一下）**（以下为不用身份验证的网站）： https://ustc.life
   - 南七茶馆（这个比较贴近蜗壳生活）：https://ustcforum.com/
   - 科大百科：https://baike.ustc.edu.cn/
-  - 评课社区（其实感觉这个没什么好看的）：https://icourse.club/
+  - ~~评课社区~~（其实感觉这个没什么好看的）：https://icourse.club/
   - 科大图书馆：http://lib.ustc.edu.cn/
   - 科大官网：https://www.ustc.edu.cn/
 ## 资料汇总（蜗壳校园篇）
