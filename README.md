@@ -56,7 +56,8 @@
   - 科大图书馆：http://lib.ustc.edu.cn/
   - 科大官网：https://www.ustc.edu.cn/
 ## 资料汇总（蜗壳校园篇）
-
+科大地图（少了一个高新区）：
+![](https://www.ustc.edu.cn/__local/7/CA/83/51C921501F45CC7F22C3E32B9C3_85DD6C3B_196F20.jpg?e=.jpg)
 ## 资料汇总（科研成果篇）
 
 ## 总结
