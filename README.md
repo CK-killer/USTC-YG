@@ -13,9 +13,15 @@
 > - 这份资料没有任何煽动性，只是客观的展示一些信息。
 > - 如有侵权请联系本人。
 
-## 食用建议
+## 食用建议（啊啊啊这个其实是一个目录😙）
 
-## 资料汇总（招生政策篇）
+1. [招生政策篇](#zhaosheng-id)
+2. 看看科大优秀的老师和学生[妮可师生篇](#shisheng-id)
+3. 看看妮可的日常生活[妮可生活篇](#shenghuo-id)
+4. 看看蜗壳的校园[蜗壳校园篇](#campus-id)
+5. 看看妮可的科研实力[科研成果篇](#tech-id)
+
+## <span id="zhaosheng-id">资料汇总（招生政策篇）</span>
 
 - **宣讲PPT**
   - 总介绍PPT:https://ck-killer.github.io/USTC-YG
@@ -40,7 +46,7 @@
   - bilibili科大本科招生公众号（搜一搜应该就可以看见）
   - **中国科大少年班学院**
   - bilibili中科大少年班学院
-## 资料汇总（妮可师生篇）
+## <span id="shisheng-id">资料汇总（妮可师生篇）</span>
 ### 先晒一晒教授学生的个人主页
 - （***用于欣赏***） **科大老师的个人主页（可以欣赏一下）**（下面举一个栗子）
   - [叶邦角教授个人主页](http://staff.ustc.edu.cn/~bjye)
@@ -60,7 +66,7 @@
 ![图片](https://user-images.githubusercontent.com/87269945/150069214-46c6b00b-87e5-4068-8885-e8d29a4cf41e.png)
 ![图片](https://user-images.githubusercontent.com/87269945/150069241-73f2fea3-d971-4c09-a6b8-502c1e6c7df8.png)
 
-## 资料汇总（妮可生活篇）
+## <span id="shenghuo-id">资料汇总（妮可生活篇）</span>
 - （***用于欣赏***） [**科大的导航网站（可以先了解一下）**](https://ustc.life)（以下为不用身份验证的网站）
   - [南七茶馆](https://ustcforum.com/)（这个比较**贴近**蜗壳生活）**（这个一定得看啊啊啊啊啊啊🔥🔥🔥）**
     - 比如这篇文章：[科大生活常用攻略](https://ustcforum.com/d/405)
@@ -87,7 +93,7 @@
     - 肥西路上有好多好吃的，比如：么肆烤肉，巴蜀人家……之类的
     - 在中区和东区中间的金寨路上有汉堡王和KFC
   - 景区：大蜀山，包公祠，李鸿章纪念馆，天鹅湖
-## 资料汇总（蜗壳校园篇）
+## <span id="campus-id">资料汇总（蜗壳校园篇）</span>
 ### 科大地图（少了一个高新区）：
 ![](https://www.ustc.edu.cn/__local/7/CA/83/51C921501F45CC7F22C3E32B9C3_85DD6C3B_196F20.jpg?e=.jpg)
 ### 妮可风光展示：
@@ -97,9 +103,10 @@
 ![图片](https://user-images.githubusercontent.com/87269945/150068203-fd580f3a-d130-4b1d-b877-18452415d54c.png)
 ![图片](https://user-images.githubusercontent.com/87269945/150068298-cfbbd6b7-627e-4854-a62c-e59596036b5b.png)
 
-## 资料汇总（科研成果篇）
+## <span id="tech-id">资料汇总（科研成果篇）</span>
 这个实在是数不胜数，下面就举几个例子
 - 科大量子计算优越性入选美国物理协会物理学年度十大进展[APS Highlights of The Year 2021](https://physics.aps.org/articles/v14/179)
+![](https://physics.aps.org/assets/d9750224-bc80-47b8-b7bc-c0c0b560a6e0/e179_1_medium.png)
 - [中国科技2021十大大突破，科大入选3项，1项在合肥研究所](https://mp.weixin.qq.com/s/g_LWhNizCg_JtRAUM7VWTQ)
 ## 总结
 
