@@ -29,12 +29,12 @@
     - 毕业去向 P72-76
     - 各院系介绍（选自己感兴趣的）从P78开始
     - 报考指南（其实并没有什么用😶） P206-210
-  - 2021浙江省招生计划（2021年计划招收的学生人数及专业）：https://zsb.ustc.edu.cn/2017/0405/c12993a181519/page.htm
-  - 往年浙江省录取人数和分数（可以提供参考）：https://zsb.ustc.edu.cn/2017/0405/c12994a181545/page.htm
-  - 2021**强基计划**招生简章（科大的强基计划资源 **<** **科技英才班**资源）：https://zsb.ustc.edu.cn/2021/0406/c12992a479109/page.htm
-  - 2021**自强计划**招生简章（适用于农村户口的小旁友们）：https://zsb.ustc.edu.cn/2021/0409/c12992a480030/page.htm
-  - 2022**少年班**招生政策：https://zsb.ustc.edu.cn/2021/0917/c12992a523037/page.htm
-  - 2022**少创班**招生政策：https://zsb.ustc.edu.cn/2021/0917/c12992a523035/page.htm
+  - [2021浙江省招生计划](https://zsb.ustc.edu.cn/2017/0405/c12993a181519/page.htm)（2021年计划招收的学生人数及专业）
+  - [往年浙江省录取人数和分数](https://zsb.ustc.edu.cn/2017/0405/c12994a181545/page.htm)（可以提供参考）
+  - [2021**强基计划**招生简章](https://zsb.ustc.edu.cn/2021/0406/c12992a479109/page.htm) **ATTENTION!!!**（科大的强基计划资源 **<** **科技英才班**资源）
+  - [2021**自强计划**招生简章](https://zsb.ustc.edu.cn/2021/0409/c12992a480030/page.htm)（适用于农村户口的小旁友们）
+  - [2022**少年班**招生政策](https://zsb.ustc.edu.cn/2021/0917/c12992a523037/page.htm)
+  - [2022**少创班**招生政策](https://zsb.ustc.edu.cn/2021/0917/c12992a523035/page.htm)
 - **妮可各种官方招生公众号**
   - 科大本科招生微信公众号（里面可以看VR全景校园）：**中国科大本科招生**
   - bilibili科大本科招生公众号（搜一搜应该就可以看见）
@@ -42,19 +42,21 @@
   - bilibili中科大少年班学院
 ## 资料汇总（妮可师生篇）
 - （***用于欣赏***） **科大老师的个人主页（可以欣赏一下）**（下面举一个栗子）
-  - 叶邦角教授个人主页 http://staff.ustc.edu.cn/~bjye
-  - 某个老师的固体物理学讲义 http://staff.ustc.edu.cn/~zhaojin
-  - 某个老师的电动力学讲义 http://staff.ustc.edu.cn/~honglee
+  - [叶邦角教授个人主页](http://staff.ustc.edu.cn/~bjye)
+  - [某个老师的固体物理学讲义](http://staff.ustc.edu.cn/~zhaojin)
+  - [某个老师的电动力学讲义](http://staff.ustc.edu.cn/~honglee)
 - （***用于欣赏***） **科大学生的个人主页**（再举一个栗子）
-  - 吴天学长个人主页 http://home.ustc.edu.cn/~wt1997/
-  - 某个学长的个人主页 http://home.ustc.edu.cn/~tageniu/
+  - [章俊彦学长个人主页](http://home.ustc.edu.cn/~yx3x/)
+  - [以及章学长整理的学习资料](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
+  - [吴天学长个人主页](http://home.ustc.edu.cn/~wt1997/)
+  - [某个学长的个人主页](http://home.ustc.edu.cn/~tageniu/)
 ## 资料汇总（妮可生活篇）
-- （***用于欣赏***） **科大的导航网站（可以先了解一下）**（以下为不用身份验证的网站）： https://ustc.life
-  - 南七茶馆（这个比较贴近蜗壳生活）：https://ustcforum.com/
-  - 科大百科：https://baike.ustc.edu.cn/
-  - ~~评课社区~~（其实感觉这个没什么好看的）：https://icourse.club/
-  - 科大图书馆：http://lib.ustc.edu.cn/
-  - 科大官网：https://www.ustc.edu.cn/
+- （***用于欣赏***） [**科大的导航网站（可以先了解一下）**](https://ustc.life)（以下为不用身份验证的网站）
+  - [南七茶馆](https://ustcforum.com/)（这个比较**贴近**蜗壳生活）
+  - [科大百科](https://baike.ustc.edu.cn/)
+  - [~~评课社区~~](https://icourse.club/)（其实感觉这个没什么好看的）
+  - [科大图书馆](http://lib.ustc.edu.cn/)
+  - [科大官网](https://www.ustc.edu.cn/)
 ## 资料汇总（蜗壳校园篇）
 科大地图（少了一个高新区）：
 ![](https://www.ustc.edu.cn/__local/7/CA/83/51C921501F45CC7F22C3E32B9C3_85DD6C3B_196F20.jpg?e=.jpg)
