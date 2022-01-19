@@ -43,7 +43,7 @@
 ## 资料汇总（妮可师生篇）
 - （***用于欣赏***） **科大老师的个人主页（可以欣赏一下）**（下面举一个栗子）
   - [叶邦角教授个人主页](http://staff.ustc.edu.cn/~bjye)
-  - [某个老师的固体物理学讲义](http://staff.ustc.edu.cn/~zhaojin)
+  - [某个老师的固体物理学讲义](http://staff.ustc.edu.cn/~zhaojin)(见其中的TEACHING板块)
   - [某个老师的电动力学讲义](http://staff.ustc.edu.cn/~honglee)
 - （***用于欣赏***） **科大学生的个人主页**（再举一个栗子）
   - [章俊彦学长个人主页](http://home.ustc.edu.cn/~yx3x/)
