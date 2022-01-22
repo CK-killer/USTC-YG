@@ -28,8 +28,9 @@
 ### 文件夹说明
 
 1. 不用管那个css,js,font文件夹，里面是用来渲染html用的
-2. 培养方案在"培养方案展示"里
-3. PPT在"PPT"里
+2. [培养方案](https://github.com/CK-killer/USTC-YG/tree/main/%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88%E5%B1%95%E7%A4%BA)在"培养方案展示"里or直接点链接
+3. PPT在"PPT"里or直接点链接
+4. static里放的是图片视频等
 
 ## <span id="zhaosheng-id">资料汇总（招生政策篇）</span>
 
