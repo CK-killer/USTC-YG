@@ -34,6 +34,7 @@
 3. PPT在"PPT"里or直接点链接
 4. static里放的是图片视频等
 5. wikipedia里放的是蜗壳的维基词条
+6. poster里放的是本人用 `inkscape` 手搓的poster
 
 ## <span id="zhaosheng-id">资料汇总（招生政策篇）</span>
 
