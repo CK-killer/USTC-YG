@@ -1,5 +1,7 @@
 # USTC-YG
 
+![poster](poster/USTCposter.png)
+
 ## Introduction
 
 这是一个蜗壳对杭州市余杭高级中学的宣讲资料的整理。
