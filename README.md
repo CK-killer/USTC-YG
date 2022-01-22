@@ -26,7 +26,7 @@
 - **宣讲PPT**
   - 总介绍PPT:https://ck-killer.github.io/USTC-YG
 - **科大本科招生网**（目前只有2021年的信息）：
-  - 2021年招生简章（这个挺 ***有用*** 的）（以下为推荐必读部分）：https://book.yunzhan365.com/fmxea/tylq/mobile/index.html
+  - 2021年[招生简章](https://book.yunzhan365.com/fmxea/tylq/mobile/index.html)（这个挺 ***有用*** 的）（以下为推荐必读部分）
     - 学校概况 P16
     - 英才教育 P20-24
     - 国内的各项教育测评（A这类的东西） P46-50
