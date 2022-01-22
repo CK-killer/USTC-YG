@@ -24,8 +24,8 @@
 ## <span id="zhaosheng-id">资料汇总（招生政策篇）</span>
 
 - **宣讲PPT**
-  - 总介绍PPT:https://ck-killer.github.io/USTC-YG
-- **科大本科招生网**（目前只有2021年的信息）：
+  - [总介绍PPT](https://ck-killer.github.io/USTC-YG)
+- **[科大本科招生网](https://zsb.ustc.edu.cn/)**（目前只有2021年的信息）：
   - 2021年[招生简章](https://book.yunzhan365.com/fmxea/tylq/mobile/index.html)（这个挺 ***有用*** 的）（以下为推荐必读部分）
     - 学校概况 P16
     - 英才教育 P20-24
