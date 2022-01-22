@@ -31,7 +31,7 @@
 
 1. 不用管那个css,js,font文件夹，里面是用来渲染html用的
 2. [培养方案](https://github.com/CK-killer/USTC-YG/tree/main/%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88%E5%B1%95%E7%A4%BA)在"培养方案展示"里or直接点链接
-3. PPT在"PPT"里or直接点链接
+3. [PPT](https://github.com/CK-killer/USTC-YG/tree/main/PPT)在"PPT"里or直接点链接
 4. static里放的是图片视频等
 5. wikipedia里放的是蜗壳的维基词条
 6. poster里放的是本人用 `inkscape` 手搓的poster
@@ -40,6 +40,7 @@
 
 - **宣讲PPT**
   - [总介绍PPT](https://ck-killer.github.io/USTC-YG)
+  - [PPT文件夹](https://github.com/CK-killer/USTC-YG/tree/main/PPT)
 - **[科大本科招生网](https://zsb.ustc.edu.cn/)**（目前只有2021年的信息）：
   - 2021年[招生简章](https://book.yunzhan365.com/fmxea/tylq/mobile/index.html)（这个挺 ***有用*** 的）（以下为推荐必读部分）
     - 学校概况 P9
