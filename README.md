@@ -1,6 +1,14 @@
 # USTC-YG
 
+## 一个小小的 Request
+
+希望看到这份文档的同学可以传播一下，如果身边有对物理感兴趣的同学可以宣传一下。
+
+---
+
 ![poster](poster/USTCposter.png)
+
+---
 
 ## Introduction
 
